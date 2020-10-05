@@ -329,7 +329,7 @@ namespace CA201005
                     Environment.Exit(0);
                     break;
             }
-            Console.Write("\nAz eredmény: ");
+            Console.Write($"\nAz eredmény: 10/{helyes} - ");
             switch (helyes)
             {
                 case 10:
